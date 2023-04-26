@@ -25,12 +25,7 @@ npx hardhat
 
 👷 Welcome to Hardhat v2.9.9 👷‍
 
-? What do you want to do? …
-  Create a JavaScript project
-  Create a TypeScript project
 ❯ Create an empty hardhat.config.js
-  Quit
-  
   
   In this tutorial we are going to use our recommended plugin, 
 @nomicfoundation/hardhat-toolbox
