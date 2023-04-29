@@ -1,11 +1,13 @@
-# Learning Solidity Essentials
+# Sample Hardhat Project
 
-In this directory we will create baby steps following this Text Book (Chapter 3 and onwards):
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-[Solidity Programming Essentials: A guide to building smart contracts and tokens using the widely used Solidity language, 2nd Edition](https://www.amazon.com/Solidity-Programming-Essentials-building-contracts/dp/1803231181/ref=sr_1_2_sspa)
+Try running some of the following tasks:
 
-Each step will be a hardhat project including tests and deployment scripts.
-
-You can also take help from this [repo](https://github.com/panaverse/defi-dapps-solidity-smart-contracts)
-
-
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.ts
+```
