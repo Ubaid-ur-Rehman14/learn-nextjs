@@ -3,7 +3,7 @@ Solidity functions are self-contained modules of code that accomplish a specific
 
 Types of solidity Function
 Getter Function
-# Setter Function
+Setter Function
 
 # Getter Function 
 In Solidity, a getter is a function that returns a value.
