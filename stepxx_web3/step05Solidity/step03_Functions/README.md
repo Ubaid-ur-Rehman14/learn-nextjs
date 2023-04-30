@@ -1,8 +1,8 @@
 # In this step we are learning about functions in solidity
 Solidity functions are self-contained modules of code that accomplish a specific task
 
-# Types of solidity Function
-# Getter Function
+Types of solidity Function
+Getter Function
 # Setter Function
 
 # Getter Function 
@@ -12,7 +12,7 @@ In Solidity, a getter is a function that returns a value.
 
  In Solidity, a setter is a function that modifies the value of a variable
 
-# Pure and View
+Pure and View
 
 # Pure
 In Solidity, a function that doesn't read or modify the variables of the state is called a pure function.
