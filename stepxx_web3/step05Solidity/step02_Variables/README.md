@@ -1,4 +1,4 @@
-# In this we are now going to leran about variables
+# In this step we are now going to leran about variables
 Variables in programming refer to storage location that can contain values. These values can be changed during runtime. The variable can be used at multiple places within code and they will all refer to the value stored within it
 # Types of variables
 There are two types of Variables in solidity
