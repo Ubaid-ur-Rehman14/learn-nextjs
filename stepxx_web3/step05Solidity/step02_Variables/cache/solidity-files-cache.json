@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Ubaid\\Desktop\\New folder\\step01Variables\\contracts\\variables.sol": {
+      "lastModificationDate": 1682802912159,
+      "contentHash": "505f539d1a8de4a5b9d6cc3d5da378b7",
+      "sourceName": "contracts/variables.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Varibles"
+      ]
+    },
+    "C:\\Users\\Ubaid\\Desktop\\New folder\\step01Variables\\contracts\\Variables.sol": {
+      "lastModificationDate": 1682803143131,
+      "contentHash": "505f539d1a8de4a5b9d6cc3d5da378b7",
+      "sourceName": "contracts/Variables.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Varibles"
+      ]
+    }
+  }
+}
